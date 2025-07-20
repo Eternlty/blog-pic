@@ -1,2 +1,2 @@
 # blog-pic
-be used to do sth.
+用于存放博客图片。
